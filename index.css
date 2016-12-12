@@ -1,0 +1,15 @@
+
+#confirm{
+    display: none;
+
+table,td{
+    border: 1px solid black;
+}
+
+td{
+    text-align: center;
+}
+
+td,th{
+   padding: 5px;
+}
